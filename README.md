@@ -41,9 +41,23 @@ Feel free to fork this project, submit issues, or contribute by submitting a pul
 
 # Installation
 
-1.	Clone the repository: "git clone https://github.com/JashThakkar/PasswordManager.git"
+1.	Clone the repository:
+
+
+  	     git clone https://github.com/JashThakkar/PasswordManager.git
 
  
-2.	Run the application: "python PasswordManager.py"
+3.	Run the application:
 
 
+  	     python PasswordManager.py
+
+
+5. May need to install packages:
+   
+   
+         pip install customtkinter
+            
+         pip install sqlite3   -  (Note: sqlite3 is built into Python, so no installation is typically needed)
+            
+         pip install cryptography
