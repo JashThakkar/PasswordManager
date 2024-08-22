@@ -43,4 +43,4 @@ Feel free to fork this project, submit issues, or contribute by submitting a pul
 1.	Clone the repository: "git clone https://github.com/JashThakkar/PasswordManager.git"
 
  
-3.	Run the application: "python passwordmanager.py"
+3.	Run the application: "python PasswordManager.py"
