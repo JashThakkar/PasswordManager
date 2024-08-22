@@ -16,7 +16,7 @@ Technologies Used
 •	SQLite for database management.
 •	cryptography.fernet for encryption.
 
- How It Works
+How It Works
 
 1.	User Authentication: Users can create an account and log in securely.
 2.	Password Management: Store and manage encrypted passwords.
@@ -33,9 +33,7 @@ Feel free to fork this project, submit issues, or contribute by submitting a pul
 
 Installation
 
-1.	Clone the repository:
-     git clone https://github.com/JashThakkar/PasswordManager.git
+1.	Clone the repository: "git clone https://github.com/JashThakkar/PasswordManager.git"
 
  
-2.	Run the application:
-     python passwordmanager.py
+3.	Run the application: "python passwordmanager.py"
