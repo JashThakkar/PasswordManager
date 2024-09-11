@@ -50,7 +50,7 @@ Installation 📲
   2.	Run the application 🏃‍♂️:
   
   
-    	     python PasswordManager.py
+    	     python PasswordManager.py (use python3 if this causes an error)
   
   
   3. May need to install packages 📦:
